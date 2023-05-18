@@ -1,6 +1,6 @@
 # Cosine_A
   - 쿼틀릔 좋아
-  - Fucking Programming Noob
+  - I'm programming noob
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;프로그래밍 언어
 
